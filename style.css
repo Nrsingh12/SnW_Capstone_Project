@@ -30,6 +30,7 @@ body {
     font-weight: 700;
     font-family: "Sansita Swashed", system-ui;
     color: #1B221B;
+    cursor: pointer;
     line-height: 2.625rem;
     letter-spacing: -4%;
 }
